@@ -3,3 +3,4 @@ console.log("New");
 console.log("asd");
 console.log("dev 2");
 console.log("osoba A");
+console.log("osoba B");
